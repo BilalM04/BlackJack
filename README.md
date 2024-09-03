@@ -1,4 +1,4 @@
-# Black Jack Card Application with Java Swing
+# Blackjack Card Application with Java Swing
 
 A classic casino experience implemented using Java Swing. This project embraces object-oriented principles to create a user-friendly graphical user interface (GUI) for playing the popular card game.
 
@@ -20,7 +20,7 @@ The Black Jack Card Game brings the excitement of the casino to your computer wi
 ## How to Play
 
 1. **Download:**
-   - Download the `Black Jack.zip` file from the repository.
+   - Download the `Blackjack.zip` file from the repository.
 
 2. **Unzip and Run:**
    - Unzip the downloaded file.
@@ -36,7 +36,7 @@ The Black Jack Card Game brings the excitement of the casino to your computer wi
 
 To run the Black Jack Card Game locally, follow these steps:
 
-1. Download the `Black Jack.zip` file from the repository.
+1. Download the `Blackjack.zip` file from the repository.
 
 2. Unzip the contents of the file.
 
